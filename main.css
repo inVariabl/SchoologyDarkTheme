@@ -986,4 +986,18 @@
   .popups-body-inner-has-buttons {
     background-color: #333;
   }
+.sgy-course-search-form__submit-row {
+	background-color: #292929;
+	}
+.sgy-react-select .Select-control {
+	background-color: #333333;
+	}
+.Select-control {
+	background-color: #333333;
+	}
+.Select-menu-outer {
+	background-color: #4b4b4b;
+	}
+	
+	
 }
