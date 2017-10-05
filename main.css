@@ -1006,4 +1006,8 @@ span {
 	}
 .realm-filter-tool #edge-filters {
 	background-color: #4b4b4b;
+	}
+.realm-filter-tool #edge-filters-btn.active {
+	background-color: #4b4b4b;
+	}
 }
