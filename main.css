@@ -1017,5 +1017,12 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 	background-color: #4b4b4b;
 	border: none;
 	}
+#course-materials-dropdown a:hover {
+	background-color: #dadada;
+	}
+#course-materials-dropdown a {
+	background-color: #4b4b4b;
+	border: none;
+	}
 
 }
