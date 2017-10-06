@@ -1001,4 +1001,7 @@
 span {
 	color: #e6e6e6;
 	}
+.sgy-react-select .Select-item {
+	background-color: #4b4b4b;
+	}
 }
