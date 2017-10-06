@@ -1004,4 +1004,9 @@ span {
 .sgy-react-select .Select-item {
 	background-color: #4b4b4b;
 	}
+#nav .group-item:hover, #nav .section-item:hover {
+	background-color: #4b4b4b;
+	}
+#nav .section-item:hover, #nav .group-item:hover {
+	background-color: #4b4b4b;
 }
