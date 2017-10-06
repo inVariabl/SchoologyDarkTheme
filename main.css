@@ -1009,4 +1009,8 @@ span {
 	}
 #nav .section-item:hover, #nav .group-item:hover {
 	background-color: #4b4b4b;
+	}
+action-links-wrapper action-links-wrapper-gearless aligned-right {
+	background-color: #4b4b4b;
+	}
 }
