@@ -1013,4 +1013,9 @@ span {
 action-links-wrapper action-links-wrapper-gearless aligned-right {
 	background-color: #4b4b4b;
 	}
+.course-materials-left-menu .materials-dropdown-arrow:hover, .course-materials-left-menu .materials-dropdown-arrow:focus {
+	background-color: #4b4b4b;
+	border: none;
+	}
+
 }
