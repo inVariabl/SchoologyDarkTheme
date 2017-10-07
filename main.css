@@ -1033,4 +1033,6 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 #nav .activities-dropdown-wrapper a:hover {
 	background-color: #4b4b4b;
 	}
+#nav .courses-action .reorderRealms:hover, #nav .groups-action .reorderRealms:hover {
+	background-color: #4b4b4b;
 }
