@@ -1030,4 +1030,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 .gradebook-course.hierarchical-grading-report .summary-course .course-grade-wrapper .course-grade-text {
 	color: #e6e6e6;
 	}
+#nav .activities-dropdown-wrapper a:hover {
+	background-color: #4b4b4b;
+	}
 }
