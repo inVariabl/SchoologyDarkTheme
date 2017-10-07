@@ -1024,5 +1024,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 	background-color: #4b4b4b;
 	border: none;
 	}
-
+.gradebook-course.hierarchical-grading-report .summary-course {
+	background-color: #4b4b4b;
+	}
 }
