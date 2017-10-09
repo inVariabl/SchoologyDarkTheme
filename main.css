@@ -1057,4 +1057,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 .wrapper-for-actions, #nav .groups-action .wrapper-for-actions, #nav .message-wrapper .wrapper-for-actions {
 	background-color: #4b4b4b;
 	}
+.drop-items li:hover {
+	background-color: #4b4b4b;
+	}
 }
