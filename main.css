@@ -1054,4 +1054,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 .realm-filter-tool #edge-filters-btn {
 	background-color: #4b4b4b;
 	}
+.wrapper-for-actions, #nav .groups-action .wrapper-for-actions, #nav .message-wrapper .wrapper-for-actions {
+	background-color: #4b4b4b;
+	}
 }
