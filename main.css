@@ -1045,8 +1045,13 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 #nav ul li:hover, #nav ul li a:hover, #nav #nav_left li.primary-activities:hover, #nav #nav_left li.primary-activities.active, body .primary-activities .active, body .primary-activities:hover {
 	background-color: #4b4b4b !important;
 	}
+.courses-action .wrapper-for-actions span, #nav .groups-action .wrapper-for-actions span {
+	background-image: url('https://s1.postimg.org/2qrexh11m7/reorder_icons_light.png');
+	}
 #nav .courses-action .reorderRealms, #nav .groups-action .reorderRealms {
 	background-image: url('https://s1.postimg.org/2qrexh11m7/reorder_icons_light.png');
 	}
+.realm-filter-tool #edge-filters-btn {
+	background-color: #4b4b4b;
+	}
 }
-	
