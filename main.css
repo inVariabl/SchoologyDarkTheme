@@ -1060,4 +1060,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 .drop-items li:hover {
 	background-color: #4b4b4b;
 	}
+.progressContainer, .link-attachment, .attachment-block, .resource-attachment {
+	background-color: #4b4b4b;
+	}
 }
