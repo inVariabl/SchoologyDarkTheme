@@ -1047,6 +1047,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 	}
 .courses-action .wrapper-for-actions span, #nav .groups-action .wrapper-for-actions span {
 	background-image: url('https://s1.postimg.org/2qrexh11m7/reorder_icons_light.png');
+	background-position: center -37px;
 	}
 #nav .courses-action .reorderRealms, #nav .groups-action .reorderRealms {
 	background-image: url('https://s1.postimg.org/2qrexh11m7/reorder_icons_light.png');
