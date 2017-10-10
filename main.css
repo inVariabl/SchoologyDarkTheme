@@ -1063,4 +1063,8 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 .progressContainer, .link-attachment, .attachment-block, .resource-attachment {
 	background-color: #4b4b4b;
 	}
+body #nav ul #home a {
+	background-image: url("https://s1.postimg.org/1kf59xzaen/CSarts_SGV_Logo_HD_Light.png");
+	background-size: contain;
+	}
 }
