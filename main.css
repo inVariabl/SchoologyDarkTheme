@@ -1077,4 +1077,7 @@ body #nav ul #home a {
 .course-materials-left-menu .materials-dropdown-arrow:hover, .course-materials-left-menu .materials-dropdown-arrow:focus {
 	background-color: #4b4b4b;
 	}
+.search-chooser li a:hover {
+	background-color: #327cbb;
+	}
 }
