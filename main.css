@@ -619,15 +619,15 @@
 	}
 
 	.grade-title {
-		color: #e6e6e6e6;
+		color: #e6e6e6e6 !important;
 	}
 
 	.received-grade {
-		color: #e6e6e6e6;
+		color: #e6e6e6e6 !important;
 	}
 
 	.max-points {
-		color: #e6e6e6e6;
+		color: #e6e6e6e6 !important;
 	}
 
 	body.s_grade_item_assignment .with-tabs #center-top {
