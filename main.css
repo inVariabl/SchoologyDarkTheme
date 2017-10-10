@@ -1068,4 +1068,13 @@ body #nav ul #home a {
 	background-image: url("https://s1.postimg.org/1kf59xzaen/CSarts_SGV_Logo_HD_Light.png");
 	background-size: contain;
 	}
+#course-materials-dropdown a:hover {
+	background-color: #4b4b4b !important;
+	}
+#course-materials-dropdown a {
+	background-color: #292929 !important;
+	}
+.course-materials-left-menu .materials-dropdown-arrow:hover, .course-materials-left-menu .materials-dropdown-arrow:focus {
+	background-color: #4b4b4b;
+	}
 }
