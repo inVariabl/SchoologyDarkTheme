@@ -1078,6 +1078,6 @@ body #nav ul #home a {
 	background-color: #4b4b4b;
 	}
 .search-chooser li a:hover {
-	background-color: #327cbb;
+	background-color: #327cbb !important;
 	}
 }
