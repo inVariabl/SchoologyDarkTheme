@@ -30,7 +30,7 @@
     body .enrollment-filters span,
     body .grading-groups-list .grading-group,
     body #grading-group-create:hover {
-		color: #e6e6e6 !important
+		color: #e6e6e6 !important;
 	}
 
 	#nav ul li:hover,
@@ -679,7 +679,7 @@
 	}
 
 	fieldset {
-		background-color: #292929;
+		background-color: transparent;
 	}
 
 	.popups-box #privatemsg-new,
@@ -1079,5 +1079,9 @@ body #nav ul #home a {
 	}
 .search-chooser li a:hover {
 	background-color: #327cbb !important;
+	}
+#error-page {
+	background-color: #292929;
+	border: none;
 	}
 }
