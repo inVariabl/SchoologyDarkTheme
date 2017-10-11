@@ -1088,4 +1088,7 @@ body #nav ul #home a {
 	background-color: #4b4b4b;
 	color: #dadada;
 	}
+.privatemsg-list .privatemsg-unread td {
+	background-color: #4b4b4b;
+	}
 }
