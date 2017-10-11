@@ -768,7 +768,7 @@
 	}
 
 	.userlist {
-		background: #292929;
+		background: transparent;
 		color: #e6e6e6;
 	}
 
@@ -1083,5 +1083,9 @@ body #nav ul #home a {
 #error-page {
 	background-color: #292929;
 	border: none;
+	}
+.selected-enrollment span.name-wrapper, .selected-smart-box-item span.name-wrapper, .user span.name-wrapper {
+	background-color: #4b4b4b;
+	color: #dadada;
 	}
 }
