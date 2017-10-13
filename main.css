@@ -1091,4 +1091,10 @@ body #nav ul #home a {
 .privatemsg-list .privatemsg-unread td {
 	background-color: #4b4b4b;
 	}
+.s-poll-option-title {
+	color: #e6e6e6;
+	}
+.s-polls-results-overlay {
+	background-color: #4b4b4b;
+	}
 }
