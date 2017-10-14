@@ -1094,7 +1094,7 @@ body #nav ul #home a {
 	background-color: #4b4b4b;
 	}
 .theme-2016 #main .edge-sentence {
-	color: #e6e6e6;
+	color: #e6e6e6 !important;
 	}
 #toolbar-folder-up a {
 	background-position-y: -298px;
