@@ -1103,4 +1103,7 @@ body #nav ul #home a {
 #toolbar-folder-up a {
 	background-position-y: -298px;
 	}
+#sidebar-left #left-nav #menu-s-main .course-materials-left-menu .materials-dropdown-arrow span {
+	background-position-y: -595px;
+	}
 }
