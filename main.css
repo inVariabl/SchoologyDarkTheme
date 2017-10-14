@@ -692,10 +692,6 @@
 		background: transparent;
 	}
 
-	a.ui-selectmenu {
-		background-color: #333333;
-	}
-
 	.ui-selectmenu-menu {
 		background-color: #333333;
 	}
@@ -1105,5 +1101,9 @@ body #nav ul #home a {
 	}
 #sidebar-left #left-nav #menu-s-main .course-materials-left-menu .materials-dropdown-arrow span {
 	background-position-y: -595px;
+	}
+.edit-course-inline-dropdown-arrow {
+	clip: none;
+	top: -575px;
 	}
 }
