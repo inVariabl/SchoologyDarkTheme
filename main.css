@@ -1106,4 +1106,27 @@ body #nav ul #home a {
 	clip: none;
 	top: -575px;
 	}
+.tab-nav:hover {
+	background-color: #327cbb;
+	}
+form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-popup-0 {
+	background-color: #4b4b4b;
+	}
+#ui-datepicker-div {
+	background-color: #333333;
+	}
+#ui-datepicker-div .ui-datepicker-unselectable {
+	background-color: #292929;
+	}
+.ui-datepicker-days-cell a:hover, .ui-datepicker-days-cell.ui-datepicker-current-day a {
+	background-color: #4b4b4b;
+	}
+.date-prev a, .ui-datepicker-prev a, .ui-datepicker-prev label {
+	background-color: #4b4b4b;
+	background-position-y: -499px;
+	}
+.date-next a, .ui-datepicker-next a, .ui-datepicker-next label {
+	background-color: #4b4b4b;
+	background-position-y: -519px;
+	}
 }
