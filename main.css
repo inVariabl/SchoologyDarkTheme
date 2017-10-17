@@ -1130,6 +1130,21 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 	background-position-y: -519px;
 	}
 .action-links-unfold {
+	background-color: #333333;
+	}
+#dropbox-viewer-right-toggle {
+	background-color: #333333;
+	}
+.dropbox-viewer-submission-activity {
+	background-color: #333333;
+	}
+.dropbox-viewer-submission-activity-inner {
+	color: #e6e6e6;
+	}
+#dropbox-viewer-right {
+	background-color: #292929;
+	}
+#s_comments .comment.first {
 	background-color: #4b4b4b;
 	}
 }
