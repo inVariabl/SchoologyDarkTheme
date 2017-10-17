@@ -266,7 +266,7 @@
 	.s-rte * {
 		word-wrap: normal;
 		word-break: normal;
-		color: #e6e6e6;
+		color: #e6e6e6 !important;
 	}
 
 	#nav .s-notifications-mini .show-all a {
