@@ -1147,4 +1147,27 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 #s_comments .comment.first {
 	background-color: #4b4b4b;
 	}
+.popups-box.popups-dropbox-viewer {
+	color: #e6e6e6;
+	}
+#dropbox-viewer-left {
+	background-color: #292929;
+	}
+.popups-dropbox-viewer .popups-close a {
+	border-color: #4b4b4b;
+	background-color: #4b4b4b;
+	}
+.popups-close a {
+	background-position-y: -100px;
+	}
+#dropbox-viewer-comments {
+	background-color: #4b4b4b;
+	}
+#dropbox-viewer-right-toggle:hover, #dropbox-viewer-right-toggle:focus {
+	background-color: #4b4b4b;
+	}
+.popups-dropbox-viewer .popups-close a {
+	background-color: #4b4b4b;
+	}
+
 }
