@@ -1169,5 +1169,10 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 .popups-dropbox-viewer .popups-close a {
 	background-color: #4b4b4b;
 	}
-
+.lb-dataContainer {
+	background-color: #333333;
+	}
+.lb-container {
+	background-color: #333333;
+	}
 }
