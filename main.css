@@ -1178,4 +1178,7 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 .course-materials-left-menu .materials-dropdown-arrow:hover, .course-materials-left-menu .materials-dropdown-arrow:focus {
 	background-color: #4b4b4b;
 	}
+.lb-data .lb-close {
+	background-image: url("https://s1.postimg.org/8u6ue9uofj/close-x_light.png");
+	}
 }
