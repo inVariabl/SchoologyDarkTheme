@@ -58,6 +58,13 @@
 	body #header {
 		position: fixed !important;
 	}
+	
+	body #wrapper {
+		padding-top: 50px;
+	}
+ #wrapper {
+	padding-top: 0px;
+	}
 
 	.theme-2016-layout #main,
     .theme-2016-layout #right-column-inner>div:not(:empty) {
