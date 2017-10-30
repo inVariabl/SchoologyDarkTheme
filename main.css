@@ -63,7 +63,7 @@
 		padding-top: 50px;
 	}
 #wrapper {
-	padding: none;
+	padding-top: none;
 	}
 	.theme-2016-layout #main,
     .theme-2016-layout #right-column-inner>div:not(:empty) {
