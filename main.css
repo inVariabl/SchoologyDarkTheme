@@ -62,10 +62,7 @@
 	body #wrapper {
 		padding-top: 50px;
 	}
- 	div #wrapper {
-	padding-top: 0px;
-	}
-
+ 
 	.theme-2016-layout #main,
     .theme-2016-layout #right-column-inner>div:not(:empty) {
 		box-sizing: border-box;
