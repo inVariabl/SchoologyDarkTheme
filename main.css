@@ -1188,4 +1188,6 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 .course-materials-left-menu .materials-dropdown-arrow:hover, .course-materials-left-menu .materials-dropdown-arrow:focus {
 	background: #4b4b4b;
 	}
+#edit-cancel:active, .cancel-btn:active, a.link-btn:active, div.link-btn:active, span.link-btn:active {
+	background-color: #4b4b4b;
 }
