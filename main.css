@@ -1190,4 +1190,12 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 	}
 #edit-cancel:active, .cancel-btn:active, a.link-btn:active, div.link-btn:active, span.link-btn:active {
 	background-color: #4b4b4b;
-}
+	}
+#attachment-file-chunked {
+	background-color: #333;
+	border-color: #292929;
+	}
+upload-btn-inner link-btn {
+	color: #e6e6e6;
+	}
+}	
