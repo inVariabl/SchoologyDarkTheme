@@ -1198,4 +1198,7 @@ form#s-user-profile-editor-profile-form #edit-profile-about-birthday-datepicker-
 upload-btn-inner link-btn {
 	color: #e6e6e6;
 	}
+.theme-2016 #right-column .subevent-count, .theme-2016 #right-column .reminder-list-count, .theme-2016 #right-column .s-parent-recent-count, .theme-2016 #right-column .s-parent-total-recent-count {
+	background-color: #4b4b4b;
+	}
 }	
