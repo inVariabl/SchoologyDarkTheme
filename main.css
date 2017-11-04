@@ -1201,4 +1201,16 @@ upload-btn-inner link-btn {
 .theme-2016 #right-column .subevent-count, .theme-2016 #right-column .reminder-list-count, .theme-2016 #right-column .s-parent-recent-count, .theme-2016 #right-column .s-parent-total-recent-count {
 	background-color: #4b4b4b;
 	}
+.fc-state-default, .fc-state-default .fc-button-inner {
+	background-color: #4b4b4b;
+	}
+.fc-view-month td:hover {
+	background-color: #4b4b4b;
+	}
+.calendar-popup-add .popups-body-inner {
+	background-color: #4b4b4b;
+	}
+#calender-smartbox-tabs .active span {
+	color: #327cbb;
+	}
 }	
