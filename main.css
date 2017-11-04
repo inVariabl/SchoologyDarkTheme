@@ -1,6 +1,16 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("csarts.schoology.com") {
+
+/* Created By Daniel Crooks */
+
+/* Color Palette:
+  Main = #333333; dark gray
+  Darker = #29292929; blackish
+  Lighter = #4b4b4b; gray buttons
+  Text = #e6e6e6; white
+  Links = #327cbb; blue
+*/
 	html {
 		background-color: #333333;
 	}
@@ -354,7 +364,7 @@
 		border-left-width: 1px;
 		border-width: 1px 1px 2px;
 		padding: 3px 0;
-		color: white;
+		color: #e6e6e6;
 	}
 
 	.courses-action a,
@@ -455,7 +465,7 @@
 	.library-collections .s-library-collections-list-forms .collection-title.active,
     .popups-body .library-collections .collections-list a.active {
 		background: #292929;
-		color: white;
+		color: #e6e6e6;
 	}
 
 	#toolbar-add .action-links-unfold-text,
@@ -478,7 +488,7 @@
 	#s-enrollment-registration-form {
 		padding: 20px 25px;
 		background: #292929;
-		color: white;
+		color: #e6e6e6;
 	}
 
 	body .fc-header-right .fc-button-content,
@@ -648,7 +658,7 @@
 		padding: 15px;
 		border: none;
 		background: #292929;
-		color: white;
+		color: #e6e6e6;
 	}
 
 	#profile-nav-tab {
@@ -733,7 +743,7 @@
 	.popups-box.dropdown-reorder .popups-body-inner-has-buttons,
     .popups-small form {
 		background-color: #292929;
-		color: white;
+		color: #e6e6e6;
 	}
 
 	.popups-body .submit-buttons,
