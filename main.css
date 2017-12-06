@@ -1226,5 +1226,8 @@ upload-btn-inner link-btn {
 a.ui-selectmenu {
 	background-color: #4b4b4b;
 	}
-
+/* Quiz Submission Information Box */
+#student-info-table-wrapper {
+	background-color: #4b4b4b;
+	}
 }	
