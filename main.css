@@ -1230,4 +1230,17 @@ a.ui-selectmenu {
 #student-info-table-wrapper {
 	background-color: #4b4b4b;
 	}
+/* Test */
+/* Header */
+.has-folder-player.s_grade_item_common_assessment #center-top .content-top-upper, .has-materials-player.s_grade_item_common_assessment #center-top .content-top-upper, .s_grade_item_common_assessment #center-top .content-top-upper {
+	background-color: #292929;
+	}
+/* Background */
+.s_grade_item_common_assessment #main-content-wrapper {
+	background-color: #292929;
+	}
+/* Grade */
+.ca-assessment-delivery__attempt_details_card, .ca-assessment-delivery__instructions-card {
+	backgroundd-color: #333;
+	}
 }	
