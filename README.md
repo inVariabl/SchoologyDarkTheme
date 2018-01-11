@@ -1,4 +1,14 @@
 # SchoologyDarkTheme
-A complete dark theme for schoology, full of bad code and based off of DuckDuckGo's Dark Theme color scheme and Jupiteer's terrible black theme. 
 
-"Have Mercy! This is my first project!" --Everyone had to start somewhere
+A complete dark theme for schoology, full of bad code and based off of DuckDuckGo's Dark Theme color scheme and Jupiteer's terrible black theme.
+
+**Stylish Link** - [Userstyles.org/styles/149077/schoology-dark-theme-complete-csarts](https://userstyles.org/styles/149077/schoology-dark-theme-complete-csarts)
+
+**Paypal** - [Paypal.me/DanielCrooks](https://www.Paypal.me/DanielCrooks)
+
+[![Home.png](https://s14.postimg.org/ngxvbfu29/Home.png)](https://postimg.org/image/8xqqa10x9/)
+
+## How to install
+1. Install the _Userstyles_ or _Stylish_ addon for Firefox or Chrome
+2. Navigate to Link
+3. Click Install
