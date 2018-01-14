@@ -450,7 +450,7 @@ body .submit-span-wrapper, body .click-submit, body .submit-btn, body .popups-bo
 }
 
 .link-btn {
-  background-color: #4b4b4b;
+  background: #4b4b4b;
   border: none;
 }
 
@@ -546,10 +546,6 @@ body.s_grade_item_assignment .with-tabs #center-top {
   color: #e6e6e6;
 }
 
-#edit-cancel, a.cancel-btn, button.cancel-btn, span.cancel-btn {
-  border-color: #1f1f1f;
-}
-
 textarea {
   background-color: #4b4b4b;
   border-color: black;
@@ -600,8 +596,7 @@ body ul.primary {
   background-color: #292929;
   color: #e6e6e6;
 }
-
-.popups-body .submit-buttons, .popups-buttons-inner {
+l, a.cancel-btn, button.cancel-btn, span.cancel-btnpopups-body .submit-buttons, .popups-buttons-inner {
   border-top: #292929;
   border-top-color: #292929;
 }
@@ -712,7 +707,7 @@ body.api-oauth-authorize #s-api-authorize-form .cancel-btn .submit-span-wrapper 
 }
 
 .popups-tabs {
-  background-color: #333;
+  background: #333;
 }
 
 dropbox-submit-upload-tab-content {
@@ -1148,6 +1143,66 @@ a.ui-selectmenu {
 /* Grade */
 .ca-assessment-delivery__attempt_details_card, .ca-assessment-delivery__instructions-card {
   background-color: #333;
+}
+
+/* Updates */
+/* Photo Updates */
+.lb-data .lb-number {
+  color: #e6e6e6;
+}
+
+/* Likes Cancel Button */
+#edit-cancel, a.cancel-btn, button.cancel-btn, span.cancel-btn {
+  background: #327cbb;
+  border-color: #1f1f1f;
+}
+
+/* Lines Things that divide items in list */
+.likers li {
+  border-color: #292929;
+}
+
+#nav .section-item, #nav .group-item {
+  border-color: #292929;
+}
+
+/* Calendar */
+/* Today */
+.fc-state-highlight {
+  background-color: #327cbb;
+}
+
+/* All Calendar */
+.menuopt-wrapper {
+  background-color: #292929;
+  border: none;
+}
+
+/* Color Picker */
+.color-codes-box {
+  background-color: #292929;
+  border-color: #4b4b4b;
+}
+.color-codes-box .flag {
+  background-image: url("https://s14.postimg.org/pfaysfurl/tip-arrow-black.png");
+}
+
+/* Check Box Color */
+.fcalendar-filter-menu-wrapper .checkbox.filter-selected {
+  background-position: 2px -19px;
+}
+
+/* Grading Info */
+.grading-info {
+  background: #333;
+}
+
+.param-name {
+  color: #e6e6e6;
+}
+
+.term-item-tag, .locked-question .tag-item {
+  background-color: #4b4b4b;
 }
 
 }	
