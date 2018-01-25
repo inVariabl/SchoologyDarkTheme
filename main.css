@@ -457,7 +457,7 @@ body .submit-span-wrapper, body .click-submit, body .submit-btn, body .popups-bo
 .with-tabs #center-top, .has-right-col .with-tabs #center-top {
   margin: 0 -20px;
   padding: 15px 20px;
-  background-color: #292929;
+  background: #292929;
   border: 0;
 }
 
@@ -565,10 +565,6 @@ fieldset {
   color: #e6e6e6;
 }
 
-a.ui-selectmenu {
-  background: transparent;
-}
-
 .ui-selectmenu-menu {
   background-color: #333;
 }
@@ -583,8 +579,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 body ul.primary {
-  background-color: #292929;
-  background-color: #292929;
+  background: #292929;
 }
 
 .privatemsg-list td {
@@ -1122,6 +1117,7 @@ upload-btn-inner link-btn {
 
 a.ui-selectmenu {
   background-color: #4b4b4b;
+  border: none;
 }
 
 /* Quiz Submission Information Box */
