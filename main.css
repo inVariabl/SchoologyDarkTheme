@@ -1117,7 +1117,7 @@ upload-btn-inner link-btn {
 }
 
 a.ui-selectmenu {
-  background-color: #4b4b4b;
+  background: #4b4b4b;
   border: none;
 }
 
@@ -1209,5 +1209,62 @@ body #nav ul li a:hover, body #nav #primary-home a:hover, body #nav #profile a:h
 .sticky-header th {
   visibility: hidden;
 }	
+
+/** MCE Text Manipulation **/
+/* Background */
+body .defaultSkin table.mceLayout td.mceToolbar {
+  background: #292929;
+}
+/* Pesky Text Size Button */
+.defaultSkin .mceListBox .mceText {
+  background: #292929;
+}
+
+/* Hover */
+body .defaultSkin a.mceButtonActive, body .defaultSkin a.mceButtonSelected, body .defaultSkin .mceButton:hover, body .defaultSkin a.mceButtonEnabled:hover, body .defaultSkin table.mceSplitButton:hover a.mceAction, body .defaultSkin table.mceSplitButtonSelected a.mceAction, body .defaultSkin table.mceListBox:hover a.mceText, body .defaultSkin table.mceListBoxSelected a.mceText {
+  background-color: #4b4b4b;
+}
+
+/* Text Size Menu */
+body .defaultSkin .mceMenu {
+  background: #4b4b4b;
+}
+
+.defaultSkin .mceMenu table {
+  background: #4b4b4b;
+} 
+
+body .defaultSkin .mceMenu .mceText {
+  color: #e6e6e6;
+}
+
+body .defaultSkin .mceMenu .mceMenuItemEnabled a:hover, body .defaultSkin .mceMenu .mceMenuItemActive {
+  background-color: #333;
+}
+
+body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin table.mceListBox:hover a.mceOpen, body .defaultSkin table.mceSplitButtonSelected a.mceOpen, body .defaultSkin table.mceListBoxSelected a.mceOpen {
+  background-color: #4b4b4b;
+}
+
+/** Upload File **/
+#file-selector a:hover {
+  background-color: #4b4b4b;
+}
+
+#link-selector a:hover {
+  background-color: #4b4b4b;
+}
+
+#resource-selector a:hover {
+  background-color: #4b4b4b;
+}
+
+#recording-selector a:hover {
+  background-color: #4b4b4b;
+}
+
+#attachment-selector .s-polls-create-poll a:hover {
+  background-color: #4b4b4b;
+}
 
 }
