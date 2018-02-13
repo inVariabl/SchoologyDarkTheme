@@ -482,7 +482,7 @@ body ul.primary li a, body ul.primary li a:hover, body ul.primary li a:visited {
   display: inline-block;
   z-index: 10;
   font-weight: bold;
-  background-color: #4b4b4b;
+  background: #4b4b4b;
   border: 1px solid #aaa;
   border-bottom-width: 1px;
   border-bottom-style: solid;
