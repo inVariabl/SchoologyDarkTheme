@@ -1267,4 +1267,11 @@ body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin 
   background-color: #4b4b4b;
 }
 
+.popups-body {
+  background: #333;
+}
+
+.update-comments-pagenation {
+  background: #333;
+}
 }
