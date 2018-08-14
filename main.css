@@ -1293,7 +1293,8 @@ body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin 
 }
   
 .sgy-card-context {
-  background: #e6e6e6;
+  background: #292929;
+  color: #e6e6e6;
 }
   
 .course-dashboard .sgy-card-lens {
