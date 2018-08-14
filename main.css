@@ -1277,12 +1277,14 @@ body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin 
 }
   
 .s-enable-course-dashboard.theme-2016-layout #main {
-  background: #333;
+  background: #333 !important;
 }
   
 .s-enable-course-dashboard.theme-2016-layout #home-feed-container {
   background: #292929;
 }
   
-
+.s-enable-course-dashboard.is-home #nav ul #primary-home, .s-enable-course-dashboard.s-home-course-dashboard #nav ul #primary-home, .s-enable-course-dashboard.is-home #nav ul #primary-home a, .s-enable-course-dashboard.s-home-course-dashboard #nav ul #primary-home a {
+  background: #333;
+}
 }
