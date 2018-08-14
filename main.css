@@ -1287,4 +1287,17 @@ body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin 
 .s-enable-course-dashboard.is-home #nav ul #primary-home, .s-enable-course-dashboard.s-home-course-dashboard #nav ul #primary-home, .s-enable-course-dashboard.is-home #nav ul #primary-home a, .s-enable-course-dashboard.s-home-course-dashboard #nav ul #primary-home a {
   background: #333;
 }
+  
+.sgy-card {
+  background: #292929;
+}
+  
+.sgy-card-context {
+  background: #e6e6e6;
+}
+  
+.course-dashboard .sgy-card-lens {
+  background: #292929;
+}
+  
 }
