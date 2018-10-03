@@ -1301,4 +1301,13 @@ body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin 
   background: #292929;
 }
   
+.question-true_false .selected span.option-span, .multiple-choice-review .selected span.option-span, .ordering-review .selected span.option-span {
+	background: #4b4b4b;
+	color: #327cbb;
+}
+
+body #wrapper {
+padding-top: 40px;
+}
+  
 }
