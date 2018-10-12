@@ -4,10 +4,7 @@ A complete dark theme for Schoology, full of bad code and based off of DuckDuckG
 
 ### Stylish Link - [Userstyles.org/styles/149077/schoology-dark-theme-complete-csarts](https://userstyles.org/styles/149077/schoology-dark-theme-complete-csarts)
 
-
-
-[![Home.png](https://s14.postimg.org/ngxvbfu29/Home.png)](https://postimg.org/image/8xqqa10x9/)
-[!{Screenshot.png](/screenshot.png)
+[!Screenshot.png](/screenshot.png)
 
 ## How to install
 ~~1. Install the _Userstyles_ or _Stylish_ addon for Firefox or Chrome~~
