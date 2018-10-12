@@ -1307,7 +1307,11 @@ body .defaultSkin table.mceSplitButton:hover a.mceOpen:hover, body .defaultSkin 
 }
 
 body #wrapper {
-padding-top: 40px;
+	padding-top: 40px;
+}
+	
+.s-rte * {
+	background: #292929 !important;
 }
   
 }
