@@ -1,9 +1,7 @@
 @namespace url(http://www.w3.org/1999/xhtml);
-
 @-moz-document domain("csarts.schoology.com") {
-
-  /* Created By Daniel Crooks */
-  /*
+/* Created By Daniel Crooks */
+/*
 Color Palette:
 Main = #333; dark gray
 Darker = #29292929; blackish
@@ -585,8 +583,7 @@ Links = #327cbb; blue
   }
 
   .privatemsg-list td {
-    border-bottom: 1px solid #aaaaaa;
-    background-color: #333;
+    background: linear-gradient(to bottom, #333, #292929);
   }
 
   .popups-box.dropdown-reorder .popups-body-inner-has-buttons, .popups-small form {
